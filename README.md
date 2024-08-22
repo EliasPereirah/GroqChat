@@ -1,4 +1,8 @@
 # Groq Chat
+## Screenshot
+
+![Screenshot Groq Chat](https://raw.githubusercontent.com/EliasPereirah/GroqChat/main/screenshot.png)
+
 
 ## What is it?
 This is a simple web interface for integrating with Groq API using PHP
