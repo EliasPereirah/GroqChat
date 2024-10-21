@@ -1,4 +1,6 @@
 # Groq Chat
+**Hey look at this:** If you are just going to use it for personal use you might be more interested in https://github.com/EliasPereirah/OrionChat
+
 ## Screenshot
 
 ![Screenshot Groq Chat](https://raw.githubusercontent.com/EliasPereirah/GroqChat/main/screenshot.png)
